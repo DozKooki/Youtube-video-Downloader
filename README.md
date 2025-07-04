@@ -46,8 +46,8 @@ You can set up this downloader on your local machine in two easy ways:
 ### 🚀 Clone with Git (Recommended)
 
 ```bash
-git clone https://github.com/DozKooki/yt-downloader.git
-cd yt-downloader
+git clone https://github.com/DozKooki/Youtube-video-Downloader
+cd Youtube-video-Downloader
 ````
 
 ---
@@ -56,7 +56,7 @@ cd yt-downloader
 
 1. Click the green `Code` button on this repository.
 2. Select `Download ZIP`.
-3. Extract it to a folder (e.g. `yt-downloader`).
+3. Extract it to a folder (e.g. `Youtube-video-Downloader`).
 
 ---
 
@@ -65,7 +65,7 @@ cd yt-downloader
 Make sure you are inside the project directory:
 
 ```bash
-cd yt-downloader
+cd Youtube-video-Downloader
 ```
 
 Then install the required packages:
@@ -88,7 +88,6 @@ Or on Windows:
 RUN-DOWNLOADER.bat
 ```
 
-```
 
 
 ## 💻 Menu Options
