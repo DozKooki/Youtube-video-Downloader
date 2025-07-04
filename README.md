@@ -37,31 +37,59 @@ Features a user-friendly command-line interface, support for playlists, quality 
 - `moviepy`
 - `imageio-ffmpeg`
 
-Install all dependencies with:
+## 📥 Installation
+
+You can set up this downloader on your local machine in two easy ways:
+
+---
+
+### 🚀 Clone with Git (Recommended)
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/DozKooki/yt-downloader.git
+cd yt-downloader
 ````
 
 ---
 
-## 🚀 How to use
+### 📦 Or download as ZIP
 
-### 🔥 Quickstart
+1. Click the green `Code` button on this repository.
+2. Select `Download ZIP`.
+3. Extract it to a folder (e.g. `yt-downloader`).
+
+---
+
+### 🛠 Install Python dependencies
+
+Make sure you are inside the project directory:
+
+```bash
+cd yt-downloader
+```
+
+Then install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+✅ Now you’re ready to run:
 
 ```bash
 python main.py
 ```
 
-### 🖱 Or on Windows
-
-Just double-click:
+Or on Windows:
 
 ```
 RUN-DOWNLOADER.bat
 ```
 
----
+```
+
 
 ## 💻 Menu Options
 
